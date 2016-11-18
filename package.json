@@ -1,0 +1,25 @@
+{
+  "name": "gmail_app",
+  "version": "1.0.0",
+  "description": "\"Nodejs and Mysql\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/Prabhakaran-rex/gmail_app.git\""
+  },
+  "keywords": [
+    "gmail_app"
+  ],
+  "author": "\"Prabha\"",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "crypto": "0.0.3",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}
